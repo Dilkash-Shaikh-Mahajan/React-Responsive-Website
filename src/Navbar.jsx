@@ -13,7 +13,7 @@ const Navbar = () => {
 									<span className='text-success'>
 										Dilkash
 									</span>{' '}
-									Shaikh Mahajan
+								 Mahajan
 								</NavLink>
 								<button
 									className='navbar-toggler'
